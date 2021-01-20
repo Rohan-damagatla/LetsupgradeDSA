@@ -1,0 +1,4 @@
+1) Time complexity - O(N)
+   Space complexity - O(1)
+
+2) A- X will be a better choice for all inputs
